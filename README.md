@@ -1,5 +1,6 @@
 # AussiegeekCustom
-I just to install zsh for nth time, and every time I do it I use aussiegeek but always  I change some parameters, to avoid send me again this file via e-mail I have created this repository
+I always install zsh and everytime I do it I'm using the aussiegeek theme with some custom parameters.
+I have created this repository to avoid sending me this file via e-mail again and again.
 
 ![aussiegeekCustom](aussiegeekCustom.png)
 
